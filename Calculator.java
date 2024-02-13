@@ -33,7 +33,7 @@ public class Calculator{
     }
         public static void main(String[] args) {
             System.out.print("Enter the 2 numbers:");
-          // Scanner sc=new Scanner(System.in);
+          //Scanner sc=new Scanner(System.in);
            // float num1=sc.nextFloat();
           //  float num2=sc.nextFloat();
             float num1=20;
